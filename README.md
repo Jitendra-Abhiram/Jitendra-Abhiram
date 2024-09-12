@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning NODEJS </br>
-👯 I’m looking to collaborate on GSSOC</br>
-📫 How to reach me: jitendraabhiramchunduru583@gmail.com
+🌱 I’m currently learning DSA & Product </br>
+📫 How to reach me: jitendra.iiitl.in@gmail.com
+😄 Pronouns: He/Him
 ## 🧰 Languages and Tools:
 <!--<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;">
