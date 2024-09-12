@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning DSA & Product </br>
-📫 How to reach me: jitendra.iiitl.in@gmail.com
+📫 How to reach me: jitendra.iiitl.in@gmail.com </br>
 😄 Pronouns: He/Him
 ## 🧰 Languages and Tools:
 <!--<p align="center">
